@@ -3,13 +3,11 @@
 
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?  
-A: *Student should provide answer here*  
-Constraint is that two boxes have two possibilities and other boxes can't have these possibilities. This constraint is propagated to all units, which reduce the search space.
+A: Constraint is that two boxes have two possibilities and other boxes can't have these possibilities. This constraint is propagated to all units, which reduce the search space.
 
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?  
-A: *Student should provide answer here*  
-To use constraint propagation to solve the diagonal sudoku problem is the same as the process to solve the normal sudoku problem, except for being added diagonal units. These units are used as another constraint.
+A: To use constraint propagation to solve the diagonal sudoku problem is the same as the process to solve the normal sudoku problem, except for being added diagonal units. These units are used as another constraint.
 
 ### Install
 
